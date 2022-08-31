@@ -1,6 +1,6 @@
 /*
-Author: Maria Cruz
-Date: Current Date
+Author: Owen Graham
+Date: August 30, 2022
 File Name: styles.css
 */
 
@@ -171,7 +171,7 @@ footer a {
 
 /* Media Query for Tablet Viewport */
 @media screen and (min-width: 550px), print {
-    .grid-container {
+    .grid {
       display: grid;
       grid-template-columns: 2;
       grid-gap: 20px;
@@ -223,7 +223,7 @@ footer a {
 @media screen and (min-width: 769px), print {
 
     .grid{
-      grid-template-columns: 
+      grid-template-columns: 4;
     }
 
     figcaption {
