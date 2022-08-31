@@ -223,7 +223,7 @@ footer a {
 @media screen and (min-width: 769px), print {
 
     .grid{
-      grid-template-columns: 4;
+      grid-template-columns: 
     }
 
     figcaption {
